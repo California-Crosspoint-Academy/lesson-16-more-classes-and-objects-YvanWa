@@ -12,17 +12,14 @@ public class exercise{
         // 9. Illegal method method3 in class Weenie cannot be applied to given types
         // 10. Illegal z has private access in Weenie
         // 11. Legal
-
         // 12.
         // Surfer surferDude;
         // surferDude = new Surfer();
-
         // 13. C. Both a and b
         // 14. 2500
-        // 15. Illegal (NullPointerException: variable 'b' might not have been initialized)
-        // 16. Illegal (Type mismatch: String cannot be converted to a number)
-
-        // 17. (Printed output)
+        // 15. NullPointerException: variable 'b' might not have been initialized
+        // 16. Type mismatch: String cannot be converted to a number
+        // 17. Printed output
         // true
         // true
         // true
